@@ -7,6 +7,7 @@
 // greeting(23);
 
 
+
 let a='ali';
 console.log(a);
 
